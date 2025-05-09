@@ -1,2 +1,2 @@
 # proyecto
-print("Hola Mundo")
+print("Hola PETER")
